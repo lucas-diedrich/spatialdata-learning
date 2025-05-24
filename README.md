@@ -21,6 +21,8 @@ We will learn
 git clone https://github.com/lucas-diedrich/spatialdata-learning.git
 ```
 
+(or download it via Code > )
+
 3. Go into the directory
 
 ```shell 
