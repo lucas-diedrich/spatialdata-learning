@@ -1,4 +1,4 @@
-# snakemake-learning
+# spatialdata-learning
 GitHub Repository for the hands-on SpatialData learning session at the MannLabs Group Retreat 2025
 
 
