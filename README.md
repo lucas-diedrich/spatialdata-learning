@@ -34,7 +34,7 @@ cd spatialdata-learning
 ```shell 
 mamba create -n spatialdata --file environment.yaml && mamba activate spatialdata
 
-# OR conda create -n snakemake-env --file environment.yaml && conda activate snakemake-env
+# OR conda create --file environment.yaml && conda activate snakemake-env
 ```
 
 
