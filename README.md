@@ -29,12 +29,12 @@ git clone https://github.com/lucas-diedrich/spatialdata-learning.git
 cd spatialdata-learning
 ```
 
-4. Create a `conda`/`mamba` environment with snakemake based on the `environemnt.yaml` file and activate it
+4. Create a `conda`/`mamba` environment with snakemake based on the `environment.yaml` file and activate it
 
 ```shell 
 mamba create -n spatialdata --file environment.yaml && mamba activate spatialdata
 
-# OR conda create --file environment.yaml && conda activate snakemake-env
+# OR conda create --file environment.yaml && conda activate spatialdata-env
 ```
 
 
