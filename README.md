@@ -5,7 +5,7 @@ GitHub Repository for the hands-on SpatialData learning session at the MannLabs 
 We will learn
 
 - about spatialdata and its basic underlying data structures
-- how about the transformation of elements between coordinate systems 
+- about the transformation of elements between coordinate systems 
 - how we can interactively explore our data 
 - how we can interface with different downstream packages
 - troubleshooting
