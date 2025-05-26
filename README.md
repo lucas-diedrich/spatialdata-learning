@@ -11,6 +11,11 @@ We will learn
 - troubleshooting
 
 
+## Google Colab
+
+This tutorial is also available in a [Google Colab Cloud Environment](https://colab.research.google.com/github/lucas-diedrich/spatialdata-learning/blob/main/notebooks/scdvp.ipynb)
+
+
 ## Installation 
 
 1. Using the command line, go into your favorite directory (`cd /path/to/my/favorite/directory`)
