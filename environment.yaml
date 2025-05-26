@@ -1,4 +1,3 @@
-name: spatialdata-env
 channels:
   - conda-forge
 dependencies:
