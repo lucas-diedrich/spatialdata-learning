@@ -45,9 +45,11 @@ mamba create -n spatialdata --file environment.yaml && mamba activate spatialdat
 
 ## Tutorial
 
-Will be added soon...
+See the notebook `notebooks/scdvp.ipynb` or [Google Colab Cloud Environment](https://colab.research.google.com/github/lucas-diedrich/spatialdata-learning/blob/main/notebooks/scdvp.ipynb)
 
 ## References
+
+### About spatialdata
 
 **SpatialData homepage + Documentation** [spatialdata.scverse.org](https://spatialdata.scverse.org/en/stable/)
 
@@ -57,3 +59,7 @@ Will be added soon...
 
 
 **Publication** Marconato, L., Palla, G., Yamauchi, K.A. et al. SpatialData: an open and universal data framework for spatial omics. Nat Methods 22, 58–62 (2025). https://doi.org/10.1038/s41592-024-02212-x
+
+### Data
+
+**Rosenberger2023** Rosenberger, F. A. et al. Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome. Nat Methods 20, 1530–1536 (2023).
