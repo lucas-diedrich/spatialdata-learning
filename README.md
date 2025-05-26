@@ -37,9 +37,9 @@ cd spatialdata-learning
 4. Create a `conda`/`mamba` environment with snakemake based on the `environment.yaml` file and activate it
 
 ```shell 
-mamba create -n spatialdata --file environment.yaml && mamba activate spatialdata
+mamba create -n spatialdata-env --file environment.yaml && mamba activate spatialdata-env
 
-# OR conda create -n spatialdata-env --file environment.yaml && conda activate spatialdata-env
+# OR conda create -n spatialdata-env -f environment.yaml && conda activate spatialdata-env
 ```
 
 
